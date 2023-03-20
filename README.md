@@ -3,7 +3,7 @@
 ![gambar tugas3css](tugas3css.png)  
 2. Buatlah file css dengan nama “Style.css”  
 3. Silahkan lakukan seleksi kepada tag paragraf dan buatlah seperti gambar berikut ini :  
-![gambar tugas3css-1](tugas3css-1.PNG)  
+![gambar tugas3css-1](tugascss3-1.PNG)  
 4. Buatlah tampilan paragraf pertama sehingga menghasilkan tampilan seperti gambar berikut ini :  
 ![gambar tugas3css-2](tugas3css-2.PNG)  
 5. Buatlah paragraf kedua sehingga menghasilkan tampilan seperti gambar berikut ini :  
